@@ -9,7 +9,7 @@ It's a joke.
 
 ## Usage
 
-1. Install from [extensions store]().
+1. Install from [extensions store](https://chrome.google.com/webstore/detail/efidphlncoobifodfomaenkbmpgcbgnk).
 2. View Twitter on https://twitter.com/.
 3. Have fun!
 
