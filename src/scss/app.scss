@@ -1,0 +1,60 @@
+// tweet-box
+div.css-1dbjc4n.r-19i43ro {
+  // nyaan
+  &::after {
+    content: "にゃーん";
+    color: gray;
+    font-size: inherit;
+  }
+
+  // tweet text box
+  div.css-901oao.r-hkyrab.r-gwet1z.r-a023e6.r-16dba41.r-ad9z0x.r-bcqeeo.r-bnwqim.r-qvutc0 {
+    display: none;
+  }
+
+  // tweet media box
+  div.css-1dbjc4n.r-156q2ks {
+    display: none;
+  }
+
+  // promo tweet box
+  div.css-901oao.r-hkyrab.r-1qd0xha.r-a023e6.r-16dba41.r-ad9z0x.r-bcqeeo.r-bnwqim.r-qvutc0 {
+    display: none;
+  }
+}
+
+// tweet detail box
+article.css-1dbjc4n.r-1udh08x.r-utggzx {
+  // tweet text box
+  div.css-901oao.r-hkyrab.r-gwet1z.r-1blvdjr.r-16dba41.r-ad9z0x.r-bcqeeo.r-19yat4t.r-bnwqim.r-qvutc0 {
+    * {
+      display: none;
+    }
+
+    // nyaan
+    &::after {
+      content: "にゃーん";
+      color: gray;
+      font-size: inherit;
+    }
+  }
+
+  // tweet media box
+  div.css-1dbjc4n.r-117bsoe.r-mvpalk.r-156q2ks {
+    display: none;
+  }
+
+  // promo tweet box
+  div.css-901oao.r-hkyrab.r-1qd0xha.r-1blvdjr.r-16dba41.r-ad9z0x.r-bcqeeo.r-19yat4t.r-bnwqim.r-qvutc0 {
+    * {
+      display: none;
+    }
+
+    // nyaan
+    &::after {
+      content: "にゃーん";
+      color: gray;
+      font-size: inherit;
+    }
+  }
+}
